@@ -1,1 +1,1 @@
-https://api.fox.codesell.ir/
+https://apifox.codesell.ir/
